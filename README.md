@@ -1,4 +1,6 @@
 # Build project:
+Vì kích cỡ dự án quá lớn nên sẽ để link ở Drive.
+Download : https://drive.google.com/drive/folders/1_xFmFWDMO6j5pCyokuJ3RAF8yAIvWauM?usp=sharing
 ## Step 1: Create virtual environment
 `python -m venv venv`
 ## Step 2: Activate virtual environment
